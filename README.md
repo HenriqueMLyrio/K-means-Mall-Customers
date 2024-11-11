@@ -22,3 +22,9 @@ Geramos um gráfico de barras que mostra os Silhouette Scores para diferentes n�
 Em seguida, geramos um gráfico de dispersão que exibe os clusters encontrados pelo KMeans, com cada cluster representado por uma cor diferente e os centróides dos clusters marcados.
 ### 6. Avaliar a Qualidade do Modelo
 Após o treinamento, avaliamos o modelo usando o Silhouette Score para garantir que a segmentação dos clientes esteja bem definida. A visualização dos clusters também ajuda a entender a distribuição dos dados.
+
+## Video de demonstração dos resultados:
+
+
+https://github.com/user-attachments/assets/03351087-cf08-426a-a87a-20c9d0f03b3b
+
